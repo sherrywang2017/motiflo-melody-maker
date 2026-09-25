@@ -14,7 +14,7 @@ You can listen in the browser, read sheet music, and export MIDI, MusicXML, WAV,
 - **Lifetime Pro:** one payment for this Motiflo account removes the weekly generation quota while the service operates. Request rate, concurrency, and fair-use limits still apply.
 - **Current development promotion:** USD $7.99, about 50% below the planned USD $15.99 price after full development. Checkout availability is shown on the [account page](https://motiflo.win/account/).
 
-For purchase terms and privacy details, see the [Motiflo website](https://motiflo.win/legal/). For common questions, see [FAQ](FAQ.md).
+Read the [terms](https://motiflo.win/terms/), [refund policy](https://motiflo.win/refunds/), and [privacy policy](https://motiflo.win/legal/). For product support, email [pawdoodleofficial@gmail.com](mailto:pawdoodleofficial@gmail.com). For common questions, see [FAQ](FAQ.md).
 
 ## 中文简介
 
