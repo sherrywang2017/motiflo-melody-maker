@@ -2,7 +2,7 @@
 
 ## What can I make?
 
-Short melody sketches for piano, violin, or voice. Choose musical settings or enter up to eight opening notes, then compare up to three candidates. [Try the workbench](https://motiflo.win/app/).
+Short melody sketches with piano, violin, voice, acoustic guitar, electric guitar, band, or orchestra. Choose musical settings or enter up to eight opening notes, then compare up to three candidates. You can develop a favorite sketch into a full song. [Try the workbench](https://motiflo.win/app/).
 
 ## What can I export?
 
