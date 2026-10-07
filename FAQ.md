@@ -8,13 +8,13 @@ Short melody sketches with piano, violin, voice, acoustic guitar, electric guita
 
 You can export MIDI, MusicXML, WAV, and a Motiflo project JSON file. Print the sheet music or save it as a PDF through your browser. [Read the help page](https://motiflo.win/help/).
 
-## How does the free allowance work?
+## Is melody generation unlimited and free?
 
-A free account can complete three generation batches per UTC week. The allowance resets Monday at 00:00 UTC (08:00 in Beijing). Each batch can contain up to three candidate melodies. Failed or empty generations do not consume a completed batch.
+Yes. A free account can generate melody batches without a weekly quota. Each batch can contain up to three candidate melodies. Reasonable request rate, concurrency and fair-use limits still apply.
 
-## What does Lifetime Pro include, and how do I buy it?
+## Can I still buy Lifetime Pro?
 
-The current development promotion is a one-time $7.99 USD purchase for one Motiflo account, about 50% below the planned $15.99 USD price after full development. Lifetime Pro removes the weekly batch quota while Motiflo operates. Request rate, concurrency, and fair-use limits still apply. Sign in on the [account page](https://motiflo.win/account/) to see checkout and order status. Pro access begins after payment is confirmed by Motiflo's server. If an order remains pending, email [pawdoodleofficial@gmail.com](mailto:pawdoodleofficial@gmail.com).
+New purchases are closed. Existing Lifetime Pro rights remain linked to the purchasing account. The current free plan also has no weekly generation quota. Sign in on the [account page](https://motiflo.win/account/) to see past orders. For help with an existing order, email [pawdoodleofficial@gmail.com](mailto:pawdoodleofficial@gmail.com).
 
 ## Where are my saved works?
 
@@ -32,13 +32,13 @@ Yes. [Listen to twelve examples](https://motiflo.win/listen/) without an account
 
 Yes. You can view your account and saved projects after signing in, export individual works, and manage works in the Library. For an account data copy, correction, or deletion request, follow the instructions in the [privacy policy](https://motiflo.win/legal/) or write to [pawdoodleofficial@gmail.com](mailto:pawdoodleofficial@gmail.com).
 
-## 免费次数什么时候刷新？
+## 免费生成有次数限制吗？
 
-每周一 UTC 00:00，也就是北京时间周一 08:00。免费账号每周可成功生成三组，每组最多三首候选旋律；失败或空结果不计入已完成次数。
+没有每周生成次数上限。注册免费账号后，每组最多生成三首候选旋律。为保障服务稳定，仍有合理的请求频率、并发和使用限制。
 
 ## “永久会员”包含什么？
 
-开发期促销价为一次性付款 7.99 美元，完整开发后计划价格为 15.99 美元。购买账号在 Motiflo 服务运营期间不受每周生成配额限制；请求速率、并发和合理使用限制仍适用。付款后由服务器确认订单，再开通权限。请以[价格页](https://motiflo.win/pricing/)和[服务条款](https://motiflo.win/terms/)为准。
+已关闭新会员购买。原有 Pro 永久会员权益仍绑定购买账号；目前免费方案同样不设每周生成次数上限。历史订单可在[账号页面](https://motiflo.win/account/)查看，详情请见[服务条款](https://motiflo.win/terms/)。
 
 ## 我的作品存在哪里？
 
