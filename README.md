@@ -15,6 +15,8 @@ Motiflo turns a small musical idea into melody sketches you can hear, read, save
 - Save works to your private account library, rename them, move them to Trash, and restore them. Unsynced drafts remain in your browser until you choose to sync.
 - Explore [12 public listening examples](https://motiflo.win/listen/) before creating an account.
 
+For a closer look at the workflow, see [how to make a melody from your own notes](https://motiflo.win/guides/melody-from-notes/) and [how to export MIDI and MusicXML](https://motiflo.win/guides/export-midi-musicxml/).
+
 ## Free unlimited generations
 
 Create a free account to generate melody batches without a weekly quota. Each batch can contain up to three candidate melodies. You can listen, view sheet music, save projects and export your work. No payment card is needed. Reasonable request rate, concurrency and fair-use limits still apply to keep the service available.
@@ -27,11 +29,11 @@ Accounts and private saved projects are stored on Motiflo's own server. See the 
 
 ## 中文简介
 
-Motiflo 是网页版旋律创作工具，支持钢琴、小提琴、人声、木吉他、电吉他、乐队和管弦乐。设置曲风、情绪、调性、和弦、拍号与速度，也可以输入自己的开头音符。每次生成最多三首候选旋律，可试听、查看乐谱、扩展成完整曲目、保存作品，并导出 MIDI、MusicXML、WAV 或项目文件；乐谱可用浏览器打印或保存为 PDF。你也可以先[试听 12 首示例](https://motiflo.win/listen/)。
+Motiflo 是网页版旋律创作工具，支持钢琴、小提琴、人声、木吉他、电吉他、乐队和管弦乐。设置曲风、情绪、调性、和弦、拍号与速度，也可以输入自己的开头音符。每次生成最多三首候选旋律，可试听、查看乐谱、扩展成完整曲目、保存作品，并导出 MIDI、MusicXML、WAV 或项目文件；乐谱可用浏览器打印或保存为 PDF。你也可以先[试听 12 首示例](https://motiflo.win/zh/listen/)，阅读[用自己的音符创作旋律](https://motiflo.win/zh/guides/melody-from-notes/)和[导出 MIDI 与 MusicXML](https://motiflo.win/zh/guides/export-midi-musicxml/)的说明。
 
-注册免费账号后，生成旋律不设每周次数上限，每组最多三首候选旋律，无需银行卡。为保障服务稳定，仍保留合理的请求速率、并发和使用限制。已关闭新会员购买；已有 Pro 永久会员权益继续绑定原账号。请查看[官网免费方案](https://motiflo.win/pricing/)和[服务条款](https://motiflo.win/terms/)。
+注册免费账号后，生成旋律不设每周次数上限，每组最多三首候选旋律，无需银行卡。为保障服务稳定，仍保留合理的请求速率、并发和使用限制。已关闭新会员购买；已有 Pro 永久会员权益继续绑定原账号。请查看[官网免费方案](https://motiflo.win/zh/pricing/)和[服务条款](https://motiflo.win/zh/terms/)。
 
-作品保存在 Motiflo 自有服务器上的私人账号资料库。账号数据查询、更正、导出和删除方式见[隐私政策](https://motiflo.win/legal/)。
+作品保存在 Motiflo 自有服务器上的私人账号资料库。账号数据查询、更正、导出和删除方式见[隐私政策](https://motiflo.win/zh/legal/)。
 
 ## Links and source code
 

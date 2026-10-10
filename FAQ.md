@@ -6,7 +6,7 @@ Short melody sketches with piano, violin, voice, acoustic guitar, electric guita
 
 ## What can I export?
 
-You can export MIDI, MusicXML, WAV, and a Motiflo project JSON file. Print the sheet music or save it as a PDF through your browser. [Read the help page](https://motiflo.win/help/).
+You can export MIDI, MusicXML, WAV, and a Motiflo project JSON file. Print the sheet music or save it as a PDF through your browser. [Read the help page](https://motiflo.win/help/) or the [MIDI and MusicXML guide](https://motiflo.win/guides/export-midi-musicxml/).
 
 ## Is melody generation unlimited and free?
 
@@ -38,8 +38,8 @@ Yes. You can view your account and saved projects after signing in, export indiv
 
 ## “永久会员”包含什么？
 
-已关闭新会员购买。原有 Pro 永久会员权益仍绑定购买账号；目前免费方案同样不设每周生成次数上限。历史订单可在[账号页面](https://motiflo.win/account/)查看，详情请见[服务条款](https://motiflo.win/terms/)。
+已关闭新会员购买。原有 Pro 永久会员权益仍绑定购买账号；目前免费方案同样不设每周生成次数上限。历史订单可在[账号页面](https://motiflo.win/account/)查看，详情请见[服务条款](https://motiflo.win/zh/terms/)。
 
 ## 我的作品存在哪里？
 
-已保存作品属于你的私人账号，保存在 Motiflo 自有服务器上；未同步的草稿留在当前浏览器。账号数据的查询、导出、更正和删除方式见[隐私政策](https://motiflo.win/legal/)。
+已保存作品属于你的私人账号，保存在 Motiflo 自有服务器上；未同步的草稿留在当前浏览器。账号数据的查询、导出、更正和删除方式见[隐私政策](https://motiflo.win/zh/legal/)。
